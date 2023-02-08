@@ -1,0 +1,12 @@
+[package]
+name = "programmeringsuppgift_rust"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+substring = "1.4.5"
+chrono = "0.4.23"
+rust_decimal = "1.27.0"
+rust_decimal_macros = "1.27.0"
